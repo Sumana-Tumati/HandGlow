@@ -1,0 +1,1 @@
+This folder contains local images used by the frontend: jasmine.jpg, rose.jpg, ylang.jpg, sandalwood.jpg, main.jpg, logo.svg
